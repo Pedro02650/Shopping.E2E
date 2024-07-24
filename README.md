@@ -22,7 +22,7 @@ Prerequisites
 
 ## Clone the Repository
 
-- git clone https://github.com/Pedro02650/Shopping.E2E
+- git clone https://github.com/Pedro02650/Shopping.E2E.git
   
 cd shopping.e2e
 
